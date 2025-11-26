@@ -25,6 +25,13 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Mitglieder & Organisationen',
+      items: [
+        'members/overview',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Advanced',
       items: [
         'advanced/deep-dive',
