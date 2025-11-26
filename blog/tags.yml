@@ -1,0 +1,11 @@
+announcement:
+  label: Announcement
+  description: Important announcements and updates
+
+feature:
+  label: Feature
+  description: New features and improvements
+
+update:
+  label: Update
+  description: General updates and changes

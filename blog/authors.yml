@@ -1,0 +1,12 @@
+admin:
+  name: Admin
+  title: Knowledge Base Administrator
+  url: '#'
+  image_url: https://github.com/admin.png
+
+# Add more authors as needed:
+# author_key:
+#   name: Author Name
+#   title: Role/Title
+#   url: https://profile-url
+#   image_url: https://avatar-url
