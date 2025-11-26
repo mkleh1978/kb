@@ -19,14 +19,13 @@ const config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  // Set the production url of your site here
-  url: 'https://your-knowledge-base.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
+// Netlify deployment
+  url: 'https://your-site-name.netlify.app',
   baseUrl: '/',
 
-  // GitHub pages deployment config.
-  organizationName: 'your-org', // Your GitHub org/user name.
-  projectName: 'knowledge-base', // Your repo name.
+  // GitHub repo info (for edit links if enabled)
+  organizationName: 'mklehh1978',
+  projectName: 'knowledge-base',
 
   onBrokenLinks: 'throw',
 
